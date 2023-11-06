@@ -1,5 +1,5 @@
 # GeoHub
-This is an OpenSource Web Application for <a href="http://geohub.great-site.net/ITCS333-Project/mainpage.php">LINK</a>
+This is an OpenSource Web Application for <a href="https://geohub.great-site.net/ITCS333-Project/mainpage.php">LINK</a>
 <img src="public/333 Icons-Fonts-Colors/GeoHub.png" alt="Logo of the project" align="right"> 
 
 > The system that we will develop is an open source and free system, I mean that users can download it completely with the code.

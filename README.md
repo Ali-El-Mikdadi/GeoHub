@@ -19,7 +19,7 @@ Other projects of a similar nature can be found here:
 GeoHub Web Application should be transformed into a free and open-source system based on the wishes of its founders, which was initially created as a project for a course labeled ITCS 333 Internet and Web development course. The system has been built and written to a certain extent, and it is now time to properly package the code so that it may run on any computing platform. 
 
 # Tools Used:
-The following tools are used for the development of the website:
+The following tools are used for the development of the website:<br>
 Front-End:
 <ol>
     <il>HTML</li> <br>

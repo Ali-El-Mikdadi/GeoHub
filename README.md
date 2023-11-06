@@ -1,6 +1,5 @@
 # GeoHub
 This is an OpenSource Web Application for <a href="https://geohub.great-site.net/ITCS333-Project/mainpage.php">LINK</a>
-<img src="public/333 Icons-Fonts-Colors/GeoHub.png" alt="Logo of the project" align="right"> 
 
 > The system that we will construct is open source and free, which means that users can download it in its entirety, including the code.
 > The system is a website for quizzes creation and conduction.

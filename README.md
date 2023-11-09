@@ -19,7 +19,7 @@ This is an OpenSource Web Application for <a href="https://geohub.great-site.net
 7. [Communication Channels](#communication-channels)
 8. [Developer Guidelines](#developer-guidelines)
 9. [Documentation](#documentation)
-10. [Frequently Asked Questions (FAQ)](#Frequently-Asked-Questions-(FAQ))
+10. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
 11. [Developer Documentation](#developer-documentation)
 12. [Codes of Conduct](#codes-of-conduct)
 13. [License](#License)
@@ -49,27 +49,27 @@ GeoHub Web Application should be transformed into a free and open-source system 
 
 # Frequently Asked Questions (FAQ)
 
-## 1. What is GeoHub?
+### 1. What is GeoHub?
 
 GeoHub is a web application that allows you to create and manage quizzes. It provides an easy and interactive platform for quiz-related activities.
 
-## 2. How can I use GeoHub?
+### 2. How can I use GeoHub?
 
 To use GeoHub, simply visit the hosted version at [GeoHub Website](https://geohub.great-site.net/ITCS333-Project/mainpage.php). If you want to contribute or explore the code, check out the [GitHub Repository](https://github.com/Fronexe/GeoHub).
 
-## 3. Is GeoHub free to use?
+### 3. Is GeoHub free to use?
 
 Yes, GeoHub is completely free to use and open-source for all users.
 
-## 4. Can I contribute to GeoHub?
+### 4. Can I contribute to GeoHub?
 
 Absolutely! We welcome contributions. Check out the [Contribution Guidelines](link-to-contributing) for more details.
 
-## 5. I have a suggestion or found a bug. Where can I share it?
+### 5. I have a suggestion or found a bug. Where can I share it?
 
 Feel free to share your suggestions or report bugs on our [Issues](https://github.com/Fronexe/GeoHub/issues) page. We appreciate your feedback!
 
-## 6. How can I stay updated on GeoHub's progress?
+### 6. How can I stay updated on GeoHub's progress?
 
 Follow us on [GitHub](https://github.com/Fronexe/GeoHub) for updates. You can also join our community discussions on [Discussions](https://github.com/Fronexe/GeoHub/discussions) for announcements and news.
 

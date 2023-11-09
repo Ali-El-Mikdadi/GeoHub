@@ -8,36 +8,48 @@ This is an OpenSource Web Application for <a href="https://geohub.great-site.net
 > The system is a website for quizzes creation and conduction.
 > Users can create a  quiz or conduct one on the website.
 
+# Table of Contents
+
+1. [The project is Free & Open-Source](#The-project-is-Free-&-Open-Source)
+2. [Looking around Other Similar Projects](#Looking-around-Other-Similar-Projects)
+3. [Choosing a Good Name](#choose-a-good-name)
+4. [Starting from What You Have](#Starting-from-What-You-Have)
+5. [Features and Requirements List](#features-and-requirements-list)
+6. [Development Status](#development-status)
+7. [Communication Channels](#communication-channels)
+8. [Developer Guidelines](#developer-guidelines)
+9. [Documentation](#documentation)
+10. [Maintaining a FAQ](#maintaining-a-faq)
+11. [Developer Documentation](#developer-documentation)
+12. [Codes of Conduct](#codes-of-conduct)
+13. [License](#License)
+
+
 # The project is Free & Open-Source
 Open-source Quizzes-based website where everyone may engage and design their own quiz.
 This system is free open-source software that was created under the provisions of the MIT License. Everyone is welcome to participate.
 
-# But first look around 
+# Looking around Other Similar Projects
 There are numerous projects that are comparable to ours. However, as we progress in our mission, we will undoubtedly work on more and new things that are not available on such sites, and this is what will distinguish us as the best.
-Other projects of a similar nature can be found here:
  
+# Choosing a Good Name
 
 # Starting from What You Have
 GeoHub Web Application should be transformed into a free and open-source system based on the wishes of its founders, which was initially created as a project for a course labeled ITCS 333 Internet and Web development course. The system has been built and written to a certain extent, and it is now time to properly package the code so that it may run on any computing platform. 
 
-# Tools Used:
-The following tools are used for the development of the website:<br>
-Front-End:
-<ol>
-    <il>HTML</li> <br>
-    <il>CSS3</li> <br>
-    <il>JavaScript</li> <br>
-</ol>
-Back-End:
-<ol>
-    <il>PHP</li> <br>
-</ol>
-Data-Base:
-<ol>
-<il>MySQL</li> <br>
-</ol>
+#Features and Requirements List
 
-# GeoHub Developer Documentation
+# Development Status
+
+# Communication Channels
+
+# Developer Guidelines
+
+# Documentation
+
+# Maintaining a FAQ
+
+# Developer Documentation
 
 ## Overview
 
@@ -80,6 +92,8 @@ The backend logic is primarily written in PHP. Key files and directories to be a
 ### JavaScript, HTML, CSS (Bootstrap)
 
 The frontend utilizes JavaScript with some use of AJAX for interactivity, HTML for structure, and CSS with Bootstrap for styling.
+
+# Code of Conduct
 
 # License
 

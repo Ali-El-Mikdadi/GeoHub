@@ -61,15 +61,11 @@ To use GeoHub, simply visit the hosted version at [GeoHub Website](https://geohu
 
 Yes, GeoHub is completely free to use and open-source for all users.
 
-## 4. Can I contribute to GeoHub?
-
-Absolutely! We welcome contributions. Check out the [Contribution Guidelines](link-to-contributing) for more details.
-
-## 5. I have a suggestion or found a bug. Where can I share it?
+## 4. I have a suggestion or found a bug. Where can I share it?
 
 Feel free to share your suggestions or report bugs on our [Issues](https://github.com/Fronexe/GeoHub/issues) page. We appreciate your feedback!
 
-## 6. How can I stay updated on GeoHub's progress?
+## 5. How can I stay updated on GeoHub's progress?
 
 Follow us on [GitHub](https://github.com/Fronexe/GeoHub) for updates. You can also join our community discussions on [Discussions](https://github.com/Fronexe/GeoHub/discussions) for announcements and news.
 

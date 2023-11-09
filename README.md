@@ -78,7 +78,7 @@ To set up GeoHub locally using XAMPP, follow these steps:
 GeoHub relies on the following key dependencies:
 
 - **Bootstrap**: Frontend framework for responsive and mobile-first design.
-For a complete list of dependencies, refer to the `composer.json` file.
+  For a complete list of dependencies, refer to the `composer.json` file.
 
 ## Backend
 
@@ -92,6 +92,7 @@ The backend logic is primarily written in PHP. Key files and directories to be a
 ### JavaScript, HTML, CSS (Bootstrap)
 
 The frontend utilizes JavaScript with some use of AJAX for interactivity, HTML for structure, and CSS with Bootstrap for styling.
+
 
 # Code of Conduct
 

@@ -34,6 +34,49 @@ Data-Base:
 <il>MySQL</li> <br>
 </ol>
 
+# GeoHub Developer Documentation
+
+## Overview
+
+Welcome to the developer documentation for GeoHub! This section provides a comprehensive guide to understanding and contributing to the codebase of our web application. GeoHub is built primarily with PHP, with additional components written in JavaScript, HTML, and CSS using the Bootstrap framework.
+
+## Table of Contents
+
+1. [Getting Started](#getting-started)
+2. [Dependencies](#dependencies)
+3. [Backend (PHP)](#backend)
+4. [Frontend (JavaScript, HTML, CSS)](#frontend)
+
+## Getting Started
+
+To set up GeoHub locally using XAMPP, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/your-username/GeoHub.git`
+2. Move the project folder to XAMPP's `htdocs` directory.
+3. Start XAMPP and ensure Apache and MySQL are running.
+4. Create a new database in phpMyAdmin.
+5. Configure the database by updating the `config.php` file with your database credentials.
+6. Navigate to `http://localhost/GeoHub` in your browser.
+
+## Dependencies
+
+GeoHub relies on the following key dependencies:
+
+- **Bootstrap**: Frontend framework for responsive and mobile-first design.
+For a complete list of dependencies, refer to the `composer.json` file.
+
+## Backend
+
+### PHP
+
+The backend logic is primarily written in PHP. Key files and directories to be aware of include:
+- Controllers: `Controllers`
+
+## Frontend
+
+### JavaScript, HTML, CSS (Bootstrap)
+
+The frontend utilizes JavaScript with some use of AJAX for interactivity, HTML for structure, and CSS with Bootstrap for styling.
 
 # License
 

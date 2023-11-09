@@ -70,7 +70,7 @@ For a complete list of dependencies, refer to the `composer.json` file.
 ### PHP
 
 The backend logic is primarily written in PHP. Key files and directories to be aware of include:
-- Controllers: `Controllers`
+- `Controllers`
 
 ## Frontend
 

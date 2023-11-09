@@ -19,7 +19,7 @@ This is an OpenSource Web Application for <a href="https://geohub.great-site.net
 7. [Communication Channels](#communication-channels)
 8. [Developer Guidelines](#developer-guidelines)
 9. [Documentation](#documentation)
-10. [Maintaining a FAQ](#maintaining-a-faq)
+10. [Frequently Asked Questions (FAQ)](#Frequently-Asked-Questions-(FAQ))
 11. [Developer Documentation](#developer-documentation)
 12. [Codes of Conduct](#codes-of-conduct)
 13. [License](#License)

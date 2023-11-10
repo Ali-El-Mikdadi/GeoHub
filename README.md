@@ -70,6 +70,24 @@ GeoHub Web Application should be transformed into a free and open-source system 
 •	Bootstrap v5.3 is required since its used as the CSS Framework.
 
 # Development Status
+**Version:** 1.0.0
+
+**Release Date:** November 1,2023
+
+**Project Activity:** Stable release with no recent updates
+
+**Bugs and Issues:** No known bugs, extensively tested for stability. 
+
+**Responsive Design:** Fully responsive for seamless user experience on various devices
+
+**Community Engagement:** Currently limited community engagement and seeking user feedback for future enhancements and addition of new features. 
+
+**Roadmap:** Considering future updates based on user feedback. 
+
+**Documentation:** Documentation is not currently available; contributions in this area would be greatly appreciated. 
+
+This version represents a stable release of “GeoHub”, offering a bug-free and responsive platform for users to easily create quizzes. Ongoing maintenance ensures continued stability, and user feedback is welcomed for potential future enhancements. Currently, documentation is not available, and contributions in this area would be highly valued.
+
 
 # Downloads
 To get started with GeoHub, follow these simple steps:

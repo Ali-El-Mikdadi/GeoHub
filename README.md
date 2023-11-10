@@ -23,7 +23,7 @@ This is an OpenSource Web Application for <a href="https://geohub.great-site.net
 11. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
 12. [Developer Documentation](#developer-documentation)
 13. [Codes of Conduct](#codes-of-conduct)
-14. [Announcing](#Announcing)
+14. [Announcements](#Announcements)
 15. [License](#License)
 
 
@@ -320,7 +320,7 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 
 # Announcing
 
-Exciting news, GeoHub Announcing! Advertising is now available! Stay updated [here](https://github.com/Fronexe/GeoHub/discussions). Let's make GeoHub better! 
+Exciting news, GeoHub Announcing! Advertising is now available! Stay updated [here](https://github.com/Fronexe/GeoHub/discussions/categories/announcements). Let's make GeoHub better! 
 
 The GeoHub Team
 

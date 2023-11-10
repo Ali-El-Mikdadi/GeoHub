@@ -1,4 +1,4 @@
-![image](https://github.com/Fronexe/GeoHub/assets/128392234/b6ff8d86-fcac-4470-82d4-a583785bf413)![image](https://github.com/Fronexe/GeoHub/assets/128392234/f16d1217-7bd6-4b90-b1b9-0eb5932aa01d)# GeoHub
+(https://github.com/Fronexe/GeoHub/assets/128392234/f16d1217-7bd6-4b90-b1b9-0eb5932aa01d)# GeoHub
 This is an OpenSource Web Application for <a href="https://geohub.great-site.net/ITCS333-Project/mainpage.php">LINK</a>
 <p align="center">
   <img src="public/333 Icons-Fonts-Colors/Screenshot_2023-05-06_at_3.24.04_PM-removebg-preview.png" alt="GeoHub Logo">

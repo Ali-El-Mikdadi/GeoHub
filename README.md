@@ -54,7 +54,7 @@ User Feedback and Scoring: The user can be able to see the quiz feedback/correct
 Mobile Responsiveness: The website supports responsiveness between different screen sizes up until mobile view. 
 Search and Filter Functionality: Enables user to easy search for quizzes by the quiz name.  
 
-# Requirements:
+## Requirements:
 •	You are required to install XAMPP.
 •	Any text editor you like. (Visual Studio Code for example)
 

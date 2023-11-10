@@ -42,9 +42,9 @@ GeoPuzzler, GeoPuzzle, GeoKnowledge, Geographyhub, and GeoHub. And we as a group
 # Starting from What You Have
 GeoHub Web Application should be transformed into a free and open-source system based on the wishes of its founders, which was initially created as a project for a course labeled ITCS 333 Internet and Web development course. The system has been built and written to a certain extent, and it is now time to properly package the code so that it may run on any computing platform. 
 
-• # Features and Requirements List
+# Features and Requirements List
 
-• ## Features Overview:
+## Features Overview:
 
 • **User Registration and Login**: Users can easily create accounts to be allowed to create and conduct quizzes. Emails could be used for login. 
 

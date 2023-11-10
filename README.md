@@ -26,7 +26,7 @@ This is an OpenSource Web Application for <a href="https://geohub.great-site.net
 14. [License](#License)
 
 
-# The project is Free & Open-Source
+# The project is Free %26 Open-Source
 Open-source Quizzes-based website where everyone may engage and design their own quiz.
 This system is free open-source software that was created under the provisions of the MIT License. Everyone is welcome to participate.
 

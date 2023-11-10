@@ -23,8 +23,10 @@ This is an OpenSource Web Application for <a href="https://geohub.great-site.net
 11. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
 12. [Developer Documentation](#developer-documentation)
 13. [Codes of Conduct](#codes-of-conduct)
-14. [Announcements](#Announcements)
-15. [License](#License)
+14. [Screenshots](#Screenshots)
+15. [Hosting](#Hosting)
+16. [Announcing](#Announcing)
+17. [License](#License)
 
 
 # The project is Free And Open-Source
@@ -312,22 +314,27 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at xxx@gmail.com. The project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at geohub.github@gmail.com. The project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident.
 
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.0, available at [https://www.contributor-covenant.org/version/2/0/code_of_conduct.html](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).
+
+
+# Screenshots
+
+
+
+# Hosting
+
+We were able to successfully host the website on a free hosting service called Infinity Free and the following link can be used to access the demo website:
+[here](https://geohub.great-site.net/ITCS333-Project/mainpage.php)
 
 # Announcements
 
 Exciting news, GeoHub Announcing! Advertising is now available! Stay updated [here](https://github.com/Fronexe/GeoHub/discussions/categories/announcements). Let's make GeoHub better! 
 
 The GeoHub Team
-
-# Hosting
-
-We were able to successfully host the website on a free hosting service called Infinity Free and the following link can be used to access the demo website:
-https://geohub.great-site.net/ITCS333-Project/mainpage.php
 
 # License
 

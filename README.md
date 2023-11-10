@@ -82,7 +82,86 @@ Enjoy using GeoHub locally on your machine!
 
 # Developer Guidelines
 
+Welcome to the GeoHub development community! These guidelines are here to help you contribute effectively to the project. Please take a moment to review them before you start working on GeoHub.
+
+### Developers’ Interaction
+
+- All members must adhere to the community's guidelines and documentation.
+- Developers should communicate through email or MS Teams.
+
+These are guidelines, not strict rules. They aim to streamline our workflow, improve teamwork, and benefit both individual developers and the products we create.
+
+If you have questions about these guidelines, the GeoHub development team is here to help.
+
+## Code Format
+
+- Each line should contain only one code command.
+- Maintain a two-line margin between code blocks.
+
+## Code Scope
+
+- Use default constructors for classes with only default constructor values.
+- Use the "final" keyword unless it is for constants.
+
+## Other Code-Related Information
+
+- Variable names should be meaningful and relevant to each variable's use.
+- Each group/block of code should have a brief comment explaining its purpose.
+
+
+### Developing Secure Software
+
+While it may not be the most exciting part of writing code, considering security risks is critical. Security risk analysis should begin early in the project and continue until completion.
+
+- Educate yourself about security risks associated with project components.
+- Avoid relying solely on out-of-the-box software and default configurations.
+
+### Which Programming Language Should I Use?
+
+We don't have strict rules about programming languages. Currently, we use HTML, CSS, and JS, but we're open to changes for project improvement.
+
+### Code Comments
+
+- Code should be commented to explain *why* it does what it does.
+- Use consistent indentation.
+- Make use of horizontal whitespace (code paragraphs/blocks).
+- Avoid long lines (more than 75-80 characters).
+
+## Using the bug Tracker
+
+The bug tracker is the preferred channel for reporting bugs, requesting features, and submitting pull requests.
+
+### Feature Requests
+
+- Ensure your idea fits within the project scope and goals.
+- Make a compelling case for the feature.
+
+### Requests for Pulls
+
+- Good pull requests include patches, improvements, and new features.
+- Keep pull requests focused and avoid unrelated commits.
+- Ask a maintainer about the pull request scope before starting.
+
+### Bug Report
+
+Include:
+- Title: Brief and specific.
+- Summary: Detailed explanation.
+- Visual evidence: Screenshot or video.
+- Expected vs. actual result: Brief and to the point.
+- Reproducible steps: Steps that caused the bug.
+- Environment: Browser, OS, screen size, zoom level.
+- Console log: Determine the source of the problem.
+- Source URL: To locate the issue quickly.
+- Severity/priority: Impact level and investigation urgency.
+- Reporter name, assignee, due date, and customer/user conversation.
+
+Compile this information into a report and email it to geohub.github@gmail.com for assistance.
+
 # Documentation
+
+As mentioned earlier in the development status, the full documentation about the website is still not available since this is just as startup open-source project and the documentation is still under process.
+However, as a contributor to our project, you are required to have a moderate level of technical expertise, particularly in web development and server configuration. If you're familiar with version control systems like Git, setting up GeoHub locally using XAMPP involves cloning the repository, configuring Apache and MySQL, and creating a new database in phpMyAdmin. Database credentials need to be updated in the config.php file. Dependencies such as Bootstrap for frontend design are utilized, and a basic understanding of PHP is beneficial for navigating and customizing the backend logic. While the provided instructions guide you through the process, users with some experience in JavaScript, HTML, and CSS (especially Bootstrap) will find it easier to explore and modify GeoHub's frontend. Overall, users with a foundational understanding of web development concepts will navigate the setup and customization more comfortably.
 
 # Frequently Asked Questions (FAQ)
 

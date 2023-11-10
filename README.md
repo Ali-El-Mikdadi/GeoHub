@@ -16,13 +16,14 @@ This is an OpenSource Web Application for <a href="https://geohub.great-site.net
 4. [Starting from What You Have](#Starting-from-What-You-Have)
 5. [Features and Requirements List](#features-and-requirements-list)
 6. [Development Status](#development-status)
-7. [Communication Channels](#communication-channels)
-8. [Developer Guidelines](#developer-guidelines)
-9. [Documentation](#documentation)
-10. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
-11. [Developer Documentation](#developer-documentation)
-12. [Codes of Conduct](#codes-of-conduct)
-13. [License](#License)
+7. [Downloads](#Downloads)
+8. [Communication Channels](#communication-channels)
+9. [Developer Guidelines](#developer-guidelines)
+10. [Documentation](#documentation)
+11. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
+12. [Developer Documentation](#developer-documentation)
+13. [Codes of Conduct](#codes-of-conduct)
+14. [License](#License)
 
 
 # The project is Free & Open-Source

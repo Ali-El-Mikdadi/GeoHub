@@ -5,7 +5,7 @@ This is an OpenSource Web Application for <a href="https://geohub.great-site.net
 </p>
 
 # Mission Statement 
-GeoHub is a newly launched website, developed as **free and open-source software** with an educational purpose, dedicated to enhancing the geography learning experience for elementary students. Our mission is to offer an intuitive platform enabling teachers to conduct multiple quizzes, providing young learners with opportunities to practice and improve their geography knowledge. Furthermore, our mission extends to collaborating with the community to complete a comprehensive documentation. We aspire to be a solution for university students and beginner developers, offering a space to practice and refine web development skills. 
+GeoHub is a newly launched website, developed as **Free and Open-Source Software** with an educational purpose, dedicated to enhancing the geography learning experience for elementary students. Our mission is to offer an intuitive platform enabling teachers to conduct multiple quizzes, providing young learners with opportunities to practice and improve their geography knowledge. Furthermore, our mission extends to collaborating with the community to complete a comprehensive documentation. We aspire to be a solution for university students and beginner developers, offering a space to practice and refine web development skills. 
 
 
 # Table of Contents

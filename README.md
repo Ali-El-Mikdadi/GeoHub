@@ -127,7 +127,13 @@ Enjoy using GeoHub locally on your machine!
 # Version Control and Bug Tracker Access
 
 # Communication Channels
+For effective communication and collaboration, we've established formal channels to connect with our GeoHub community:
 
+- **Discussions Board:** Join our Discussions board on GitHub to engage in thoughtful conversations, share ideas, and report issues. [GeoHub Discussions](https://github.com/Fronexe/GeoHub/discussions)
+
+- **Email:** For private inquiries, you can reach out to us via email at geohub.github@gmail.com.
+
+We encourage you to use these channels for submitting comments, questions, and any other inquiries related to GeoHub. Your feedback is valuable to us!
 # Developer Guidelines
 
 Welcome to the GeoHub development community! These guidelines are here to help you contribute effectively to the project. Please take a moment to review them before you start working on GeoHub.

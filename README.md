@@ -86,12 +86,11 @@ Welcome to the developer documentation for GeoHub! This section provides a compr
 
 To set up GeoHub locally using XAMPP, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/GeoHub.git`
+1. Clone the repository: `git clone https://github.com/Fronexe/GeoHub.git`
 2. Move the project folder to XAMPP's `htdocs` directory.
 3. Start XAMPP and ensure Apache and MySQL are running.
 4. Create a new database in phpMyAdmin.
-5. Configure the database by updating the `config.php` file with your database credentials.
-6. Navigate to `http://localhost/GeoHub` in your browser.
+5. Navigate to `http://localhost/GeoHub` in your browser.
 
 ## Dependencies
 

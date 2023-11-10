@@ -4,9 +4,9 @@ This is an OpenSource Web Application for <a href="https://geohub.great-site.net
   <img src="public/333 Icons-Fonts-Colors/Screenshot_2023-05-06_at_3.24.04_PM-removebg-preview.png" alt="GeoHub Logo">
 </p>
 
-> The system that we will construct is open source and free, which means that users can download it in its entirety, including the code.
-> The system is a website for quizzes creation and conduction.
-> Users can create a  quiz or conduct one on the website.
+# Mission Statement 
+GeoHub is a newly launched website, developed as **free and open-source software** with an educational purpose, dedicated to enhancing the geography learning experience for elementary students. Our mission is to offer an intuitive platform enabling teachers to conduct multiple quizzes, providing young learners with opportunities to practice and improve their geography knowledge. Furthermore, our mission extends to collaborating with the community to complete a comprehensive documentation. We aspire to be a solution for university students and beginner developers, offering a space to practice and refine web development skills. 
+
 
 # Table of Contents
 
@@ -131,7 +131,7 @@ To maintain transparency and streamline our development process, we utilize the 
 
 - **Bug Tracker:** For reporting bugs, suggesting improvements, or submitting feature requests, please use our [GitHub Issues](https://github.com/Fronexe/GeoHub/issues) page.
 
-By utilizing these tools, we aim to enhance collaboration, track project progress, and address issues promptly. Your contributions and feedback are crucial for the continuous improvement of GeoHub.
+By utilizing these tools, we aim to enhance collaboration, track project progress, and address issues promptly. Your contributions and feedback are crucial for the continuous improvement of GeoHub website.
 # Communication Channels
 For effective communication and collaboration, we've established formal channels to connect with our GeoHub community:
 

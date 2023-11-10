@@ -108,7 +108,8 @@ To set up GeoHub locally using XAMPP, follow these steps:
 2. Move the project folder to XAMPP's `htdocs` directory.
 3. Start XAMPP and ensure Apache and MySQL are running.
 4. Create a new database in phpMyAdmin.
-5. Navigate to `http://localhost/GeoHub` in your browser.
+5. Configure the database by updating the config.php file with your database credentials.
+6. Navigate to `http://localhost/GeoHub` in your browser.
 
 ## Dependencies
 

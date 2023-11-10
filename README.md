@@ -35,13 +35,14 @@ There are numerous projects that are comparable to ours. However, as we progress
  
 # Choosing a Good Name
 As part of launching the open-source project, finding a good name was one of the blockers which faced us as a group. The name not only needs to be unique but also needs to give a general or some idea about what the project does. In addition, the project name needs to be easy to remember and not the same as other project’s names. 
+
 As part of choosing a good name, we as a group decided to vote on the following names:
 GeoPuzzler, GeoPuzzle, GeoKnowledge, Geographyhub, and GeoHub. And we as a group decided to choose “GeoHub” since it is easy to remember, unique and we have made our own research to research all the repos and find out that there is few results with this name. 
 
 # Starting from What You Have
 GeoHub Web Application should be transformed into a free and open-source system based on the wishes of its founders, which was initially created as a project for a course labeled ITCS 333 Internet and Web development course. The system has been built and written to a certain extent, and it is now time to properly package the code so that it may run on any computing platform. 
 
-#Features and Requirements List
+**#Features and Requirements List**
 
 # Development Status
 

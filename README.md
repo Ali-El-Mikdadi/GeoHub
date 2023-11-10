@@ -1,4 +1,4 @@
-# GeoHub
+![image](https://github.com/Fronexe/GeoHub/assets/128392234/f16d1217-7bd6-4b90-b1b9-0eb5932aa01d)# GeoHub
 This is an OpenSource Web Application for <a href="https://geohub.great-site.net/ITCS333-Project/mainpage.php">LINK</a>
 <p align="center">
   <img src="public/333 Icons-Fonts-Colors/Screenshot_2023-05-06_at_3.24.04_PM-removebg-preview.png" alt="GeoHub Logo">
@@ -43,6 +43,26 @@ GeoPuzzler, GeoPuzzle, GeoKnowledge, Geographyhub, and GeoHub. And we as a group
 GeoHub Web Application should be transformed into a free and open-source system based on the wishes of its founders, which was initially created as a project for a course labeled ITCS 333 Internet and Web development course. The system has been built and written to a certain extent, and it is now time to properly package the code so that it may run on any computing platform. 
 
 **#Features and Requirements List**
+**A list of features for the website is listed below:**
+**Features Overview:**
+•	An easy-to-use interface. 
+•	Users could create an account to be permitted to create and conduct quizzes. 
+•	The user can choose the quiz time, number and type of questions while creating the quiz. 
+•	The user can be able to see the quiz feedback/correction after submitting the quiz. 
+•	There is a random quiz option where a quiz will be generated based on the number of questions chosen and questions will be random. 
+User Registration and Login: Users can easily create accounts to be allowed to create and conduct quizzes. Emails could be used for login. 
+****Quiz Creation and Editing: **A**llows users to easily create, customize, and edit quizzes.
+****Question Bank:** **stores a library of questions for the random quiz feature. 
+**User History:** Provides users with the history of the conducted and created quizzes made by them. 
+**Randomized Quiz Generation: **Dynamically generates quizzes with random question selection based on the chosen questions number. 
+**User Feedback and Scoring:** The user can be able to see the quiz feedback/correction after submitting the quiz or after the timer finishes. 
+**Mobile Responsiveness: **The website supports responsiveness between different screen sizes up until mobile view. 
+Search and Filter Functionality: Enables user to easy search for quizzes by the quiz name.  
+
+**Requirements:**
+•	You are required to install XAMPP.
+•	Any text editor you like. (Visual Studio Code for example)
+
 
 # Development Status
 

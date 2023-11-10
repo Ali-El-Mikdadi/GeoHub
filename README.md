@@ -65,9 +65,9 @@ GeoHub Web Application should be transformed into a free and open-source system 
 ## Requirements:
 • You are required to install XAMPP.
 
-• Any text editor you like. (Visual Studio Code for example)
+• Any text editor you like. (Visual Studio Code for example).
 
-•	Bootstrap v5.3 is required since its used as the CSS Framework
+•	Bootstrap v5.3 is required since its used as the CSS Framework.
 
 # Development Status
 

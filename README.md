@@ -334,36 +334,36 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 
 ## Main Page
 <p align="center">
-  <img src=" Screenshots/1.png" alt="GeoHub Main Page">
+  <img src="Screenshots/1.png" alt="GeoHub Main Page">
 </p>
 ## About Us
 <p align="center">
-  <img src=" Screenshots/2.png" alt="GeoHub About Us ">
+  <img src="Screenshots/2.png" alt="GeoHub About Us ">
 </p>
 ## Terms and Conditions
 <p align="center">
-  <img src=" Screenshots/6.png" alt="GeoHub Terms and Conditions ">
+  <img src="Screenshots/6.png" alt="GeoHub Terms and Conditions ">
 </p>
 ## Quizzes Page
 <p align="center">
-  <img src=" Screenshots/4.png" alt="GeoHub Quizzes Page ">
+  <img src="Screenshots/4.png" alt="GeoHub Quizzes Page ">
 </p>
 ## Create Quiz
 <p align="center">
-  <img src=" Screenshots/8.png" alt="GeoHub Create Quiz">
+  <img src="Screenshots/8.png" alt="GeoHub Create Quiz">
 </p>
 ## Conducting Quiz
 <p align="center">
-  <img src=" Screenshots/9.png" alt="GeoHub Conducting Quiz ">
+  <img src="Screenshots/9.png" alt="GeoHub Conducting Quiz ">
 </p>
 ## Quiz Feedback 
 <p align="center">
-  <img src=" Screenshots/10.png" alt="GeoHub Quiz Feedback ">
+  <img src="Screenshots/10.png" alt="GeoHub Quiz Feedback ">
 </p>
 
 ## Sign up Page
 <p align="center">
-  <img src=" Screenshots/11.png" alt="GeoHub Sign up Page ">
+  <img src="Screenshots/11.png" alt="GeoHub Sign up Page ">
 </p>
 
 # Hosting

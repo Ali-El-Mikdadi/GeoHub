@@ -17,16 +17,17 @@ This is an OpenSource Web Application for <a href="https://geohub.great-site.net
 5. [Features and Requirements List](#features-and-requirements-list)
 6. [Development Status](#development-status)
 7. [Downloads](#Downloads)
-8. [Communication Channels](#communication-channels)
-9. [Developer Guidelines](#developer-guidelines)
-10. [Documentation](#documentation)
-11. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
-12. [Developer Documentation](#developer-documentation)
-13. [Codes of Conduct](#codes-of-conduct)
-14. [Screenshots](#Screenshots)
-15. [Hosting](#Hosting)
-16. [Announcing](#Announcing)
-17. [License](#License)
+8. [Version Control and Bug Tracker Access](#Version-Control-and-Bug-Tracker-Access)
+9. [Communication Channels](#communication-channels)
+10. [Developer Guidelines](#developer-guidelines)
+11. [Documentation](#documentation)
+12. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
+13. [Developer Documentation](#developer-documentation)
+14. [Codes of Conduct](#codes-of-conduct)
+15. [Screenshots](#Screenshots)
+16. [Hosting](#Hosting)
+17. [Announcing](#Announcing)
+18. [License](#License)
 
 
 # The project is Free And Open-Source
@@ -122,6 +123,8 @@ To get started with GeoHub, follow these simple steps:
    GeoHub relies on Bootstrap for frontend design. Click [here](https://getbootstrap.com/docs/5.3/getting-started/download/) to download Bootstrap.
 
 Enjoy using GeoHub locally on your machine!
+
+# Version Control and Bug Tracker Access
 
 # Communication Channels
 

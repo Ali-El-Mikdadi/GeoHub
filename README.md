@@ -41,6 +41,23 @@ GeoHub Web Application should be transformed into a free and open-source system 
 
 # Development Status
 
+# Downloads
+To get started with GeoHub, follow these simple steps:
+
+1. **Download [XAMPP](https://www.apachefriends.org/download.html):**
+   Install XAMPP as a prerequisite. Click [here](https://www.apachefriends.org/download.html) to download.
+
+2. **Download [GeoHub Source File](https://github.com/Fronexe/GeoHub/archive/refs/heads/master.zip):**
+   Click [here](https://github.com/Fronexe/GeoHub/archive/refs/heads/master.zip) to download the GeoHub source files.
+
+3. **Download [Visual Studio Code](https://code.visualstudio.com/Download):**
+   Choose and install Visual Studio Code or any text editor you prefer. Click [here](https://code.visualstudio.com/Download) to download.
+
+4. **Download [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/download/):**
+   GeoHub relies on Bootstrap for frontend design. Click [here](https://getbootstrap.com/docs/5.3/getting-started/download/) to download Bootstrap.
+
+Enjoy using GeoHub locally on your machine!
+
 # Communication Channels
 
 # Developer Guidelines

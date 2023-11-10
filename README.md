@@ -324,6 +324,11 @@ Exciting news, GeoHub Announcing! Advertising is now available! Stay updated [he
 
 The GeoHub Team
 
+# Hosting
+
+We were able to successfully host the website on a free hosting service called Infinity Free and the following link can be used to access the demo website:
+https://geohub.great-site.net/ITCS333-Project/mainpage.php
+
 # License
 
 Copyright (c) 2023 GeoHub

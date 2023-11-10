@@ -23,7 +23,8 @@ This is an OpenSource Web Application for <a href="https://geohub.great-site.net
 11. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
 12. [Developer Documentation](#developer-documentation)
 13. [Codes of Conduct](#codes-of-conduct)
-14. [License](#License)
+14. [Announcing](#Announcing)
+15. [License](#License)
 
 
 # The project is Free And Open-Source
@@ -316,6 +317,12 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.0, available at [https://www.contributor-covenant.org/version/2/0/code_of_conduct.html](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).
+
+# Announcing
+
+Exciting news, GeoHub Announcing! Advertising is now available! Stay updated [here](https://github.com/Fronexe/GeoHub/discussions). Let's make GeoHub better! 
+
+The GeoHub Team
 
 # License
 

@@ -31,7 +31,21 @@ Open-source Quizzes-based website where everyone may engage and design their own
 This system is free open-source software that was created under the provisions of the MIT License. Everyone is welcome to participate.
 
 # Looking around Other Similar Projects
-There are numerous projects that are comparable to ours. However, as we progress in our mission, we will undoubtedly work on more and new things that are not available on such sites, and this is what will distinguish us as the best.
+As part of us launching an open-source project, we did our own research to find out similar and competitive projects to ours. Below are some similar sites links:
+
+https://github.com/Laerim/QuizzMaker.git
+
+https://github.com/andulica/QuizzMaker.git
+
+https://github.com/the-jey/Flutter-QuizzMakerApp.git
+
+https://github.com/skypirates17/QuizCreator.git
+
+https://github.com/AtufaShireen/QuizCreator.git
+
+One of the main reasons for starting our project was for an educational purpose especially targeting elementary teachers or for any creative developers who would like to use the software as a kickstart to boost their coding and designing skills.
+
+
  
 # Choosing a Good Name
 As part of launching the open-source project, finding a good name was one of the blockers which faced us as a group. The name not only needs to be unique but also needs to give a general or some idea about what the project does. In addition, the project name needs to be easy to remember and not the same as other project’s names. 

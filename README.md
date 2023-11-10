@@ -318,7 +318,7 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.0, available at [https://www.contributor-covenant.org/version/2/0/code_of_conduct.html](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).
 
-# Announcing
+# Announcements
 
 Exciting news, GeoHub Announcing! Advertising is now available! Stay updated [here](https://github.com/Fronexe/GeoHub/discussions/categories/announcements). Let's make GeoHub better! 
 

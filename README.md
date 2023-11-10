@@ -334,7 +334,7 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 
 1)	Main Page
 <p align="center">
-  <img src=" Screenshots/1.png" alt="GeoHub MainPage">
+  <img src="Screenshots/1.png" alt="GeoHub MainPage">
 </p>
 
 

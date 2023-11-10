@@ -44,19 +44,19 @@ GeoHub Web Application should be transformed into a free and open-source system 
 
 # Features and Requirements List
 
-##Features Overview:
-###User Registration and Login: Users can easily create accounts to be allowed to create and conduct quizzes. Emails could be used for login. 
-###Quiz Creation and Editing: Allows users to easily create, customize, and edit quizzes.
-###Question Bank: stores a library of questions for the random quiz feature. 
-###User History: Provides users with the history of the conducted and created quizzes made by them. 
-###Randomized Quiz Generation: Dynamically generates quizzes with random question selection based on the chosen questions number. 
-###User Feedback and Scoring: The user can be able to see the quiz feedback/correction after submitting the quiz or after the timer finishes. 
-###Mobile Responsiveness: The website supports responsiveness between different screen sizes up until mobile view. 
-###Search and Filter Functionality: Enables user to easy search for quizzes by the quiz name.  
+## Features Overview:
+### User Registration and Login: Users can easily create accounts to be allowed to create and conduct quizzes. Emails could be used for login. 
+### Quiz Creation and Editing: Allows users to easily create, customize, and edit quizzes.
+### Question Bank: stores a library of questions for the random quiz feature. 
+### User History: Provides users with the history of the conducted and created quizzes made by them. 
+### Randomized Quiz Generation: Dynamically generates quizzes with random question selection based on the chosen questions number. 
+### User Feedback and Scoring: The user can be able to see the quiz feedback/correction after submitting the quiz or after the timer finishes. 
+### Mobile Responsiveness: The website supports responsiveness between different screen sizes up until mobile view. 
+### Search and Filter Functionality: Enables user to easy search for quizzes by the quiz name.  
 
 ## Requirements:
-###You are required to install XAMPP.
-###Any text editor you like. (Visual Studio Code for example)
+### You are required to install XAMPP.
+### Any text editor you like. (Visual Studio Code for example)
 
 
 # Development Status

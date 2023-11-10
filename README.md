@@ -42,29 +42,31 @@ GeoPuzzler, GeoPuzzle, GeoKnowledge, Geographyhub, and GeoHub. And we as a group
 # Starting from What You Have
 GeoHub Web Application should be transformed into a free and open-source system based on the wishes of its founders, which was initially created as a project for a course labeled ITCS 333 Internet and Web development course. The system has been built and written to a certain extent, and it is now time to properly package the code so that it may run on any computing platform. 
 
-# Features and Requirements List
+• # Features and Requirements List
 
-## Features Overview:
+• ## Features Overview:
 
-**User Registration and Login**: Users can easily create accounts to be allowed to create and conduct quizzes. Emails could be used for login. 
+• **User Registration and Login**: Users can easily create accounts to be allowed to create and conduct quizzes. Emails could be used for login. 
 
-**Quiz Creation and Editing:** Allows users to easily create, customize, and edit quizzes.
+• **Quiz Creation and Editing:** Allows users to easily create, customize, and edit quizzes.
 
-**Question Bank:** stores a library of questions for the random quiz feature. 
+• **Question Bank:** stores a library of questions for the random quiz feature. 
 
-**User History:** Provides users with the history of the conducted and created quizzes made by them. 
+• **User History:** Provides users with the history of the conducted and created quizzes made by them. 
 
-**Randomized Quiz Generation:** Dynamically generates quizzes with random question selection based on the chosen questions number. 
+• **Randomized Quiz Generation:** Dynamically generates quizzes with random question selection based on the chosen questions number. 
 
-**User Feedback and Scoring:** The user can be able to see the quiz feedback/correction after submitting the quiz or after the timer finishes. 
+• **User Feedback and Scoring:** The user can be able to see the quiz feedback/correction after submitting the quiz or after the timer finishes. 
 
-**Mobile Responsiveness:** The website supports responsiveness between different screen sizes up until mobile view. 
+• **Mobile Responsiveness:** The website supports responsiveness between different screen sizes up until mobile view. 
 
-**Search and Filter Functionality:** Enables user to easy search for quizzes by the quiz name.  
+• **Search and Filter Functionality:** Enables user to easy search for quizzes by the quiz name.  
 
 ## Requirements:
 • You are required to install XAMPP.
+
 • Any text editor you like. (Visual Studio Code for example)
+
 •	Bootstrap v5.3 is required since its used as the CSS Framework
 
 # Development Status

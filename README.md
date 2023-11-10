@@ -10,7 +10,7 @@ This is an OpenSource Web Application for <a href="https://geohub.great-site.net
 
 # Table of Contents
 
-1. [The project is Free & Open Source](#The-project-is-Free-&-Open-Source)
+1. [The project is Free & Open Source](#the-project-is-free-&-open-source)
 2. [Looking around Other Similar Projects](#Looking-around-Other-Similar-Projects)
 3. [Choosing a Good Name](#choose-a-good-name)
 4. [Starting from What You Have](#Starting-from-What-You-Have)

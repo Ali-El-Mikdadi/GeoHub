@@ -332,7 +332,7 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 
 # Screenshots
 
-1)	Main Page
+## Main Page
 <p align="center">
   <img src="Screenshots/1.png" alt="GeoHub MainPage">
 </p>

@@ -1,4 +1,4 @@
-
+![image](https://github.com/Fronexe/GeoHub/assets/128392234/29b4aa68-62e3-47b2-a76c-9e3af9006cb4)
 This is an OpenSource Web Application for <a href="https://geohub.great-site.net/ITCS333-Project/mainpage.php">LINK</a>
 <p align="center">
   <img src="public/333 Icons-Fonts-Colors/Screenshot_2023-05-06_at_3.24.04_PM-removebg-preview.png" alt="GeoHub Logo">
@@ -125,7 +125,13 @@ To get started with GeoHub, follow these simple steps:
 Enjoy using GeoHub locally on your machine!
 
 # Version Control and Bug Tracker Access
+To maintain transparency and streamline our development process, we utilize the following tools for version control and bug tracking:
 
+- **Version Control System:** To ensure a smooth collaborative development process, we leverage strong use of version control using Git. This allows contributors to track changes, collaborate seamlessly, and maintain a clear project history. You can stay updated on the project's evolution by checking [here](https://github.com/Fronexe/GeoHub/commits/master).
+
+- **Bug Tracker:** For reporting bugs, suggesting improvements, or submitting feature requests, please use our [GitHub Issues](https://github.com/Fronexe/GeoHub/issues) page.
+
+By utilizing these tools, we aim to enhance collaboration, track project progress, and address issues promptly. Your contributions and feedback are crucial for the continuous improvement of GeoHub.
 # Communication Channels
 For effective communication and collaboration, we've established formal channels to connect with our GeoHub community:
 

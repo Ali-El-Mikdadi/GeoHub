@@ -10,7 +10,7 @@ This is an OpenSource Web Application for <a href="https://geohub.great-site.net
 
 # Table of Contents
 
-1. [The project is Free %26 Open-Source](#the-project-is-free-%26-open-source)
+1. [The project is Free And Open-Source](#the-project-is-free-and-open-source)
 2. [Looking around Other Similar Projects](#Looking-around-Other-Similar-Projects)
 3. [Choosing a Good Name](#choose-a-good-name)
 4. [Starting from What You Have](#Starting-from-What-You-Have)
@@ -26,7 +26,7 @@ This is an OpenSource Web Application for <a href="https://geohub.great-site.net
 14. [License](#License)
 
 
-# The project is Free %26 Open-Source
+# The project is Free And Open-Source
 Open-source Quizzes-based website where everyone may engage and design their own quiz.
 This system is free open-source software that was created under the provisions of the MIT License. Everyone is welcome to participate.
 

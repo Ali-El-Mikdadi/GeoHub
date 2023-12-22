@@ -1,5 +1,5 @@
 
-<strong> This is an OpenSource Web Application for <a href="https://geohub.great-site.net/ITCS333-Project/mainpage.php">LINK</a>
+<strong> This is an OpenSource Web Application for <a href="https://geohub.great-site.net/ITCS333-Project/mainpage.php">LINK</a> </strong>
 <p align="center">
   <img src="public/333 Icons-Fonts-Colors/Screenshot_2023-05-06_at_3.24.04_PM-removebg-preview.png" alt="GeoHub Logo">
 </p>

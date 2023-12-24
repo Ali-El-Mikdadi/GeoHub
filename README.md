@@ -27,6 +27,7 @@ GeoHub is a newly launched website, developed as **Free and Open-Source Software
 15. [Screenshots](#Screenshots)
 16. [Hosting](#Hosting)
 17. [Announcing](#Announcing)
+18. [License](License)
 
 
 # The project is Free And Open-Source

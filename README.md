@@ -113,8 +113,8 @@ To get started with GeoHub, follow these simple steps:
 1. **Download [XAMPP](https://www.apachefriends.org/download.html):**
    Install XAMPP as a prerequisite. Click [here](https://www.apachefriends.org/download.html) to download.
 
-2. **Download [GeoHub Source File](https://github.com/Fronexe/GeoHub/archive/refs/heads/master.zip):**
-   Click [here](https://github.com/Fronexe/GeoHub/archive/refs/heads/master.zip) to download the GeoHub source files.
+2. **Download [GeoHub Source File](https://github.com/GeoHub/archive/refs/heads/master.zip):**
+   Click [here](https://github.com/GeoHub/archive/refs/heads/master.zip) to download the GeoHub source files.
 
 3. **Download [Visual Studio Code](https://code.visualstudio.com/Download):**
    Choose and install Visual Studio Code or any text editor you prefer. Click [here](https://code.visualstudio.com/Download) to download.
@@ -127,15 +127,15 @@ Enjoy using GeoHub locally on your machine!
 # Version Control and Bug Tracker Access
 To maintain transparency and streamline our development process, we utilize the following tools for version control and bug tracking:
 
-- **Version Control System:** To ensure a smooth collaborative development process, we leverage strong use of version control using Git. This allows contributors to track changes, collaborate seamlessly, and maintain a clear project history. You can stay updated on the project's evolution by checking [here](https://github.com/Fronexe/GeoHub/commits/master).
+- **Version Control System:** To ensure a smooth collaborative development process, we leverage strong use of version control using Git. This allows contributors to track changes, collaborate seamlessly, and maintain a clear project history. You can stay updated on the project's evolution by checking [here](https://github.com/ /GeoHub/commits/master).
 
-- **Bug Tracker:** For reporting bugs, suggesting improvements, or submitting feature requests, please use our [GitHub Issues](https://github.com/Fronexe/GeoHub/issues) page.
+- **Bug Tracker:** For reporting bugs, suggesting improvements, or submitting feature requests, please use our [GitHub Issues](https://github.com/GeoHub/issues) page.
 
 By utilizing these tools, we aim to enhance collaboration, track project progress, and address issues promptly. Your contributions and feedback are crucial for the continuous improvement of GeoHub website.
 # Communication Channels
 For effective communication and collaboration, we've established formal channels to connect with our GeoHub community:
 
-- **Discussions Board:** Join our Discussions board on GitHub to engage in thoughtful conversations, share ideas, and report issues. [GeoHub Discussions](https://github.com/Fronexe/GeoHub/discussions)
+- **Discussions Board:** Join our Discussions board on GitHub to engage in thoughtful conversations, share ideas, and report issues. [GeoHub Discussions](https://github.com/GeoHub/discussions)
 
 - **Email:** For private inquiries, you can reach out to us via email at geohub.github@gmail.com.
 
@@ -231,7 +231,7 @@ GeoHub is a web application that allows you to create and manage quizzes. It pro
 
 ### 2. How can I use GeoHub?
 
-To use GeoHub, simply visit the hosted version at [GeoHub Website](https://geohub.great-site.net/ITCS333-Project/mainpage.php). If you want to contribute or explore the code, check out the [GitHub Repository](https://github.com/Fronexe/GeoHub).
+To use GeoHub, simply visit the hosted version at [GeoHub Website](https://geohub.great-site.net/ITCS333-Project/mainpage.php). If you want to contribute or explore the code, check out the [GitHub Repository](https://github.com/GeoHub).
 
 ## 3. Is GeoHub free to use?
 
@@ -239,11 +239,11 @@ Yes, GeoHub is completely free to use and open-source for all users.
 
 ## 4. I have a suggestion or found a bug. Where can I share it?
 
-Feel free to share your suggestions or report bugs on our [Issues](https://github.com/Fronexe/GeoHub/issues) page. We appreciate your feedback!
+Feel free to share your suggestions or report bugs on our [Issues](https://github.com/GeoHub/issues) page. We appreciate your feedback!
 
 ## 5. How can I stay updated on GeoHub's progress?
 
-Follow us on [GitHub](https://github.com/Fronexe/GeoHub) for updates. You can also join our community discussions on [Discussions](https://github.com/Fronexe/GeoHub/discussions) for announcements and news.
+Follow us on [GitHub](https://github.com/GeoHub) for updates. You can also join our community discussions on [Discussions](https://github.com/GeoHub/discussions) for announcements and news.
 
 # Developer Documentation
 
@@ -262,7 +262,7 @@ Welcome to the developer documentation for GeoHub! This section provides a compr
 
 To set up GeoHub locally using XAMPP, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Fronexe/GeoHub.git`
+1. Clone the repository: `git clone https://github.com/ /GeoHub.git`
 2. Move the project folder to XAMPP's `htdocs` directory.
 3. Start XAMPP and ensure Apache and MySQL are running.
 4. Create a new database in phpMyAdmin.
@@ -386,7 +386,7 @@ We were able to successfully host the website on a free hosting service called I
 
 # Announcements
 
-Exciting news, GeoHub Announcing! Advertising is now available! Stay updated [here](https://github.com/Fronexe/GeoHub/discussions/categories/announcements). Let's make GeoHub better! 
+Exciting news, GeoHub Announcing! Advertising is now available! Stay updated [here](https://github.com/ /GeoHub/discussions/categories/announcements). Let's make GeoHub better! 
 
 The GeoHub Team
 
